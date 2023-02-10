@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shablon", "Shablon\Shablon.csproj", "{EA998E1D-8886-464D-9F00-916EB3C5B59C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseEngineering", "ReverseEngineering\ReverseEngineering.csproj", "{4FA05807-B0E9-456D-A343-7957AF7E86F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM", "MVVM\MVVM.csproj", "{513F47E0-B5C5-4595-B689-981D0F9D14B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA998E1D-8886-464D-9F00-916EB3C5B59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA998E1D-8886-464D-9F00-916EB3C5B59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA998E1D-8886-464D-9F00-916EB3C5B59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA998E1D-8886-464D-9F00-916EB3C5B59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA05807-B0E9-456D-A343-7957AF7E86F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA05807-B0E9-456D-A343-7957AF7E86F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA05807-B0E9-456D-A343-7957AF7E86F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA05807-B0E9-456D-A343-7957AF7E86F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513F47E0-B5C5-4595-B689-981D0F9D14B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513F47E0-B5C5-4595-B689-981D0F9D14B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513F47E0-B5C5-4595-B689-981D0F9D14B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513F47E0-B5C5-4595-B689-981D0F9D14B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E173B84B-7547-4C1F-94FF-FB26487E0D4E}
+	EndGlobalSection
+EndGlobal
